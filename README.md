@@ -55,5 +55,6 @@ Optional later: audio transcription with Whisper or a hosted ASR API
 ## Run The Web App
 Start the local CERTINOTE web demo:
 python3 scripts/serve_web.py --port 8000
+
 Then open:
 http://127.0.0.1:8000
