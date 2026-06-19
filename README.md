@@ -62,3 +62,20 @@ python3 scripts/serve_web.py --port 8000
 
 Then open:
 http://127.0.0.1:8000
+
+Try these patient statements in the web app:
+
+```text
+I have a sore throat and fever.
+I have fever, cough, and body aches.
+I have a runny nose, stuffy nose, and sore throat.
+I have sneezing, itchy eyes, and a runny nose.
+I have facial pressure, a stuffy nose, and a headache.
+I have headache, nausea, and light sensitivity.
+I have burning when urinating and I am peeing often.
+I have diarrhea, vomiting, and stomach cramps.
+I have heartburn and acid coming up after eating.
+I have wheezing, shortness of breath, and chest tightness.
+I have red eyes, sticky eye discharge, and gritty irritation.
+I have ear pain, muffled hearing, and fever.
+```
