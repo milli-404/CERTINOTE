@@ -17,10 +17,14 @@ Show confidence and uncertainty per section.
 
 ## Why This Matters
 Most student healthcare AI demos stop at:
+
 (Transcript -> AI-generated clinical note)
 
+
 This project adds the production-minded layer:
+
 (Transcript -> SOAP note -> evidence verification -> uncertainty flags -> human review)
+
 That directly addresses trust, governance, and safety concerns in healthcare AI.
 
 ## MVP Features
